@@ -2,10 +2,11 @@
 layout: post
 title: The Future of Data Protection for Individuals
 date: 2024-06-24 21:13 -0400
-categories: [decentralizatin, self-hosting]
-tags: [podcast]
+categories: [podcast]
+tags: [decentralizatin, self-hosting]
+media_subpath: assets/img/thumbs/ep01-thumb.png
 ---
-<iframe title="TDLP - The Future of Data Protection for Individuals" width="560" height="315" src="https://cast.garden/videos/embed/99dc1dfb-1408-4e14-8ba6-f5cc92d1ad74" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+<iframe title="TDLP - The Future of Data Protection for Individuals" width="700" height="400" src="https://cast.garden/videos/embed/99dc1dfb-1408-4e14-8ba6-f5cc92d1ad74" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 **Intro:**
 

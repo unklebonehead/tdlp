@@ -2,11 +2,11 @@
 layout: post
 title: Data Breeches and Censorship
 date: 2024-06-24 21:15 -0400
-categories: [censorship, data-breech]
-tags: [podcast]
-
+categories: [podcast]
+tags: [censorship, data-breech]
+media_subpath: assets/img/thumbs/ep02-thumb.png
 ---
-<iframe title="TDLP 02 - Data Breaches and Censorship" width="560" height="315" src="https://cast.garden/videos/embed/6cd71ee6-fa5e-4e4f-9ca9-a399224d770f" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+<iframe title="TDLP 02 - Data Breaches and Censorship" width="700" height="400" src="https://cast.garden/videos/embed/6cd71ee6-fa5e-4e4f-9ca9-a399224d770f" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 Unkle Bonehead discusses the importance of online freedom and digital sovereignty, highlighting real-life examples of data breaches and censorship. He shares five examples of data breaches and censorship incidents, including the Equifax breach, Twitter suspension of journalist Michael Yon, Capital One data breach, Facebook data scandal, and Silk Road marketplace. He emphasizes the need for decentralized systems to secure and control personal data, ensuring freedom and privacy.
 

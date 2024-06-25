@@ -2,10 +2,11 @@
 layout: post
 title: The Foundation of Digital Freedom
 date: 2024-06-24 21:20 -0400
-categories: [decentalization, liberty, open source]
-tags: [podcast]
+categories: [podcast] 
+tags: [decentalization, liberty, open source]
+media_subpath: assets/img/thumbs/ep-06-thumb.png
 ---
-<iframe title="The Foundation of Digital Freedom" width="560" height="315" src="https://cast.garden/videos/embed/add41279-c348-452f-9614-7a73168e9b98" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+<iframe title="The Foundation of Digital Freedom" width="700" height="400" src="https://cast.garden/videos/embed/add41279-c348-452f-9614-7a73168e9b98" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 In this episode of the Digital Liberation Podcast, Unkle Bonehead explores the importance of starting your digital liberation journey with the devices you use. He discusses the benefits of open-source hardware and operating systems, including security, freedom, and the power to take control of your online presence. Unkle Bonehead also provides practical tips on how to get started with open-source alternatives, from installing Linux on your computer to choosing more secure phone options.
 

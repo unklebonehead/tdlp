@@ -2,10 +2,11 @@
 layout: post
 title: People Helping People
 date: 2024-06-24 21:19 -0400
-categories: [decentralization, liberty, open source, resources]
-tags: [podcast]
+categories: [podcast]
+tags: [decentralization, liberty, open source, resources]
+media_subpath: assets/img/thumbs/ep-05-thumb.png
 ---
-<iframe title="P.H.P. - People Helping People" width="560" height="315" src="https://cast.garden/videos/embed/490d1ad7-902d-4724-a6ca-a9ab53f38337" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+<iframe title="P.H.P. - People Helping People" width="700" height="400" src="https://cast.garden/videos/embed/490d1ad7-902d-4724-a6ca-a9ab53f38337" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 In this episode, we explore the world of decentralized services, highlighting free and paid options that allow you to take back control of your online presence. We discuss NixNet, Disroot, Hack Liberty, Framasoft, and Proton, covering their features, services, and benefits. From free services with generous storage limits to paid options with advanced features, we'll help you find the perfect solution to de-Google-ify your internet.  
 FREE OPTIONS:  
