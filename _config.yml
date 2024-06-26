@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Digital Liberation Podcast # the main title
+title: Liberty Bytes # the main title
 
-tagline: Freeing minds, one podcast episode at a time. # it will display as the sub-title
+tagline: Unshackling your potential, one byte at a time! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A podcas thats empowering individuals in a decentralized world.
+  Creating content thats empowering and inspiring people to be liberated in the digital world.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
